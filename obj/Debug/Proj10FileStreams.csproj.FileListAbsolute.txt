@@ -1,0 +1,9 @@
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\bin\Debug\Proj10FileStreams.exe.config
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\bin\Debug\Proj10FileStreams.exe
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\bin\Debug\Proj10FileStreams.pdb
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\obj\Debug\Proj10FileStreams.csprojResolveAssemblyReference.cache
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\obj\Debug\Proj10FileStreams.frmList.resources
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\obj\Debug\Proj10FileStreams.Properties.Resources.resources
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\obj\Debug\Proj10FileStreams.csproj.GenerateResource.Cache
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\obj\Debug\Proj10FileStreams.exe
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\Proj10FileStreams\Proj10FileStreams\obj\Debug\Proj10FileStreams.pdb
